@@ -25,6 +25,17 @@ It integrates **statistical forecasting methods**, **inventory control models**,
 4. **Visualization:** Profit trend plots and SKU-level inventory dashboards.
 
 ---
+
+## ⚙️ Tech Stack
+
+- **Python** – Data analysis & modeling  
+- **Pandas, NumPy** – Data processing & manipulation  
+- **Matplotlib, Seaborn** – Data visualization  
+- **Statsmodels** – Forecasting (Simple Exponential Smoothing, Moving Average)  
+- **Jupyter Notebook** – Interactive analysis environment  
+- **MS Excel** – Input data loading & preprocessing  
+---
+
 ## 📊 Exploratory Data Analysis (EDA) Insights
 
 - **Sales Trends:** Daily sales are highly volatile with no clear long-term growth pattern.  
