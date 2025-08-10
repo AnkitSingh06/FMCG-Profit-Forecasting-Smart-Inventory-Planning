@@ -72,7 +72,12 @@ It integrates **statistical forecasting methods**, **inventory control models**,
 12. **Personal Care – Urban (Tie):** Frequent fluctuations; keep balanced, flexible stock.  
 13. **Snacks – Rural (Tie):** Sharp swings; shorter replenishment cycles.  
 14. **Snacks – Suburban (MA):** Steep spikes; build buffer pre-surge, reduce after.  
-15. **Snacks – Urban (SES):** Moderate swings; steady stock aligned with forecast.  
+15. **Snacks – Urban (SES):** Moderate swings; steady stock aligned with forecast.
+---
+
+## 📈 Forecast Visuals
+![All Forecast Charts]()
+
 
 ---
 ## 📌 Recommendations
