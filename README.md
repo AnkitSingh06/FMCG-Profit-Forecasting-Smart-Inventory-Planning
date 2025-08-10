@@ -56,6 +56,9 @@ It integrates **statistical forecasting methods**, **inventory control models**,
 
 ---
 
+## 📈 EDA Visuals
+![All EDA Charts]()
+
 ## 📈 Forecast Insights (Summary)
 
 1. **Beverages – Rural (SES):** High seasonal swings; SES smooths better. Keep higher safety stock in peak months.  
