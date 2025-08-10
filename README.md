@@ -1,7 +1,7 @@
-# 📦 Profit Forecasting & Smart Inventory Planning – HUL Supply Chain Trainee Project
+# 📦 Profit Forecasting & Smart Inventory Planning
 
 ## 📝 Project Overview
-This project demonstrates **profit-based demand forecasting** and **smart inventory planning** for an FMCG supply chain, tailored for **Hindustan Unilever Limited (HUL)**.  
+This project demonstrates **profit-based demand forecasting** and **smart inventory planning** for an FMCG supply chain.  
 It integrates **statistical forecasting methods**, **inventory control models**, and **actionable replenishment strategies** to minimize stockouts, reduce working capital, and align inventory with profitability goals.
 
 ---
@@ -78,9 +78,9 @@ It integrates **statistical forecasting methods**, **inventory control models**,
 
 
 ---
-## 💼 Business Impact for HUL
+## 💼 Business Impacts
 
-The **Profit Forecasting & Smart Inventory Planning** model can drive measurable improvements for HUL across operational efficiency, profitability, and sustainability.
+The **Profit Forecasting & Smart Inventory Planning** model can drive measurable improvements across operational efficiency, profitability, and sustainability.
 
 ---
 
@@ -107,6 +107,6 @@ The **Profit Forecasting & Smart Inventory Planning** model can drive measurable
 - **Working Capital Efficiency:** Dynamic safety stock reduces excess inventory, freeing **~₹5–10 lakh/month** in tied-up capital.  
 - **Profit Alignment:** Profit-based forecasting links replenishment decisions to margin optimization, potentially improving **category profitability by 2–5% annually**.  
 - **Forecast-Driven Planning:** Category-specific model recommendations (SES vs MA) improve agility in demand response.  
-- **Sustainability:** Lower overproduction reduces waste, supporting HUL’s **net-zero** and waste reduction goals.  
+- **Sustainability:** Lower overproduction reduces waste, supporting **net-zero** and waste reduction goals.  
 
 
