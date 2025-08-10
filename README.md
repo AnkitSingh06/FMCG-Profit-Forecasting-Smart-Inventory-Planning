@@ -41,7 +41,22 @@ It integrates **statistical forecasting methods**, **inventory control models**,
 4. **Visualization:** Profit trend plots and SKU-level inventory dashboards.
 
 ---
-## 📊 Forecast Insights (Summary)
+## 📊 Exploratory Data Analysis (EDA) Insights
+
+- **Sales Trends:** Daily sales are highly volatile with no clear long-term growth pattern.  
+- **Top Categories:** Beverages, Personal Care, Household, Dairy, and Snacks dominate sales volume.  
+- **Seasonality:** Demand peaks in February, June, and October; dips in May and November.  
+- **Location Impact:** Urban stores outperform Suburban and Rural in sales volume.  
+- **Pricing Impact:** No strong link between price and sales; demand driven by other factors.  
+- **Promotion Effect:** Promotions cause a small sales lift; need better targeting for impact.  
+- **Weekday Trends:** Saturday sees highest sales; Sunday and Thursday are lowest.  
+- **Stock Levels:** Sales occur across varied stock levels; maintain minimum thresholds to avoid stockouts.  
+- **Lead Times:** Longer lead times align with bulk buying; manage to avoid overstock.  
+- **Profit Trends:** Significant fluctuations; stronger cost control recommended.  
+
+---
+
+## 📈 Forecast Insights (Summary)
 
 1. **Beverages – Rural (SES):** High seasonal swings; SES smooths better. Keep higher safety stock in peak months.  
 2. **Beverages – Suburban (Tie):** Moderate spikes; either model works. Replenish steadily.  
@@ -53,11 +68,12 @@ It integrates **statistical forecasting methods**, **inventory control models**,
 8. **Household – Suburban (SES):** Pronounced spikes; SES reliable post-peak. Stagger deliveries.  
 9. **Household – Urban (SES):** Stable with minor surges; average safety stock.  
 10. **Personal Care – Rural (Tie):** Cyclical demand; stock only before peaks.  
-11. **Personal Care – Suburban (MA):** Occasional profit surges; MA catches peaks. Targeted promotions.  
+11. **Personal Care – Suburban (MA):** Occasional surges; MA catches peaks. Targeted promotions.  
 12. **Personal Care – Urban (Tie):** Frequent fluctuations; keep balanced, flexible stock.  
 13. **Snacks – Rural (Tie):** Sharp swings; shorter replenishment cycles.  
 14. **Snacks – Suburban (MA):** Steep spikes; build buffer pre-surge, reduce after.  
-15. **Snacks – Urban (SES):** Moderate swings; steady stock aligned with forecast.
+15. **Snacks – Urban (SES):** Moderate swings; steady stock aligned with forecast.  
+
 ---
 ## 📌 Recommendations
  
