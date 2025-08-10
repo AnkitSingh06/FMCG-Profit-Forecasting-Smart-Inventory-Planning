@@ -41,5 +41,27 @@ It integrates **statistical forecasting methods**, **inventory control models**,
 4. **Visualization:** Profit trend plots and SKU-level inventory dashboards.
 
 ---
+## 📊 Forecast Insights (Summary)
 
-## 📂 Repository Structure
+1. **Beverages – Rural (SES):** High seasonal swings; SES smooths better. Keep higher safety stock in peak months.  
+2. **Beverages – Suburban (Tie):** Moderate spikes; either model works. Replenish steadily.  
+3. **Beverages – Urban (Tie):** Volatile demand; SES handles drops better. Use dynamic reorder points.  
+4. **Dairy – Rural (SES):** Stable with mild dips; SES best. Slightly above-average safety stock.  
+5. **Dairy – Suburban (SES):** Predictable with spikes; SES tracks changes. Stock up pre-peak.  
+6. **Dairy – Urban (Tie):** Abrupt shifts; both models similar. Keep emergency procurement ready.  
+7. **Household – Rural (Tie):** Large demand swings; flexible supplier contracts needed.  
+8. **Household – Suburban (SES):** Pronounced spikes; SES reliable post-peak. Stagger deliveries.  
+9. **Household – Urban (SES):** Stable with minor surges; average safety stock.  
+10. **Personal Care – Rural (Tie):** Cyclical demand; stock only before peaks.  
+11. **Personal Care – Suburban (MA):** Occasional profit surges; MA catches peaks. Targeted promotions.  
+12. **Personal Care – Urban (Tie):** Frequent fluctuations; keep balanced, flexible stock.  
+13. **Snacks – Rural (Tie):** Sharp swings; shorter replenishment cycles.  
+14. **Snacks – Suburban (MA):** Steep spikes; build buffer pre-surge, reduce after.  
+15. **Snacks – Urban (SES):** Moderate swings; steady stock aligned with forecast.
+---
+## 📌 Recommendations
+ 
+1. **SES** for stable categories (Dairy, Urban Beverages) and **MA** for high-volatility segments.  
+2. Implement **dynamic safety stock** linked to forecast accuracy.  
+3. Integrate forecasts into **automated replenishment systems** for efficiency.
+
