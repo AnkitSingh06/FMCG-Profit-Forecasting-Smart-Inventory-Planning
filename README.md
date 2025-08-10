@@ -57,7 +57,7 @@ It integrates **statistical forecasting methods**, **inventory control models**,
 ---
 
 ## 📈 EDA Visuals
-![All EDA Charts]()
+![All EDA Charts](EDA_Charts.png)
 
 ## 📈 Forecast Insights (Summary)
 
