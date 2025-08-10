@@ -76,7 +76,7 @@ It integrates **statistical forecasting methods**, **inventory control models**,
 ---
 
 ## 📈 Forecast Visuals
-![All Forecast Charts]()
+![All Forecast Charts](Forecast_Charts.png)
 
 
 ---
